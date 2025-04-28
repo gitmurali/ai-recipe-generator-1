@@ -48,14 +48,11 @@ function App() {
     <div className="app-container">
       <div className="header-container">
         <h1 className="main-header">
-          Meet Your Personal
-          <br />
           <span className="highlight">Recipe AI</span>
         </h1>
         <p className="description">
           Simply type a few ingredients using the format ingredient1,
-          ingredient2, etc., and Recipe AI will generate an all-new recipe on
-          demand...
+          ingredient2, etc., AI will generate curry 🐷 for you
         </p>
       </div>
       <form onSubmit={onSubmit} className="form-container">
