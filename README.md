@@ -1,6 +1,10 @@
-# React + TypeScript + Vite
+# AI Recipe Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A recipe generation application built with React, TypeScript, and Vite.
+
+## Tech Stack: React + TypeScript + Vite
+
+This project provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
 
