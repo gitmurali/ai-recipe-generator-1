@@ -23,7 +23,26 @@ npm run dev
 ```
 
 
+install amplify packages
+
 ```js
 npm create amplify@latest -y
 ```
 
+create amplify sandbox
+
+```js
+npx ampx sandbox
+```
+
+install amplify on frontend react
+
+```js
+npm install aws-amplify @aws-amplify/ui-react
+```
+
+and run your app
+
+```js
+npm run dev
+```
